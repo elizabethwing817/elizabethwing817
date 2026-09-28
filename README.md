@@ -1,6 +1,6 @@
 # Hi, I'm Elizabeth! 👋
 
-I'm a Computer Science student at Southern New Hampshire University pursuing a Bachelor of Science in Computer Science with a concentration in Software Engineering. I currently maintain a 4.0 GPA and am expected to graduate in February 2027.
+I'm a Computer Science student at Southern New Hampshire University pursuing a Bachelor of Science in Computer Science with a concentration in Software Engineering. I currently maintain a 4.0 GPA and am expected to graduate in April 2027.
 
 I'm passionate about solving problems through software development and enjoy building applications involving databases, backend development, data visualization, and interactive user experiences.
 
